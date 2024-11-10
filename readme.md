@@ -104,6 +104,12 @@ Dự án này được phân phối dưới giấy phép MIT. Xem `LICENSE` đ�
   <a href="mailto:ngducmiinh@gmail.com">
     <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/449364127_122102696786375116_2129721866720788959_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=aqI61ECjgqsQ7kNvgF7m5CJ&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=ABFxrV5H0F1f97q1_Y0xNA2&oh=00_AYBsKHImncytdKJOBHSZvQt7rdKOhfgdwnsmfEra7uaFBg&oe=67365EEA" width="50" height="50"/>
     </a>
+  <a href="mailto:huyd863@gmail.com">
+    <img src="https://scontent.fhan15-2.fna.fbcdn.net/v/t1.6435-9/67193575_743568249396066_4199562620518268928_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=bqEst1AFbvIQ7kNvgGXsLdB&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=AD9cgUg_qPJHuPGyMW9jIH_&oh=00_AYDoKxEAtKGF0P6jvxGpr7BqP6J8RlMPtaXnKsOseMYqHQ&oe=67580BD9" width="50" height="50"/>
+    </a>
+  <a href="mailto:jasonng.1407@gmail.com">
+    <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/438862009_933526684904050_6341124161490015777_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dogMZsp6h4sQ7kNvgFnQsdJ&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=AeHyaojr5d5dCprJQMJ2RkZ&oh=00_AYDLT3ftAYE8WiXrhF0YgzcsDiZY8jdBxPP4mSVgqXL_0Q&oe=67365C94" width="50" height="50"/>
+    </a>
 </p>
 
 ---
