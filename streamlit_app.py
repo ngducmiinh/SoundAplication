@@ -1,7 +1,7 @@
 import streamlit as st
 from audio_effects import (chipmunk_effect, robot_effect, echo_effect,
-                         electronic_voice_effect, stutter_effect,
-                         process_voice, text_to_speech, speech_to_text)
+                           electronic_voice_effect, stutter_effect,
+                           process_voice, text_to_speech, speech_to_text)
 from st_audiorec import st_audiorec
 from googletrans import Translator
 from pydub import AudioSegment
@@ -52,14 +52,14 @@ st.markdown(
         color: #ffffff;
     }
     .stImage > img {
-        width: 100%;
-        max-width: 100%;
-        height: auto;
-        object-fit: contain;
-        border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        margin: 20px 0;
-    }
+            width: 100%;
+            max-width: 100%;
+            height: auto;
+            object-fit: contain;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            margin: 20px 0;
+        }
     </style>
     """,
     unsafe_allow_html=True
@@ -71,7 +71,7 @@ st.title("Sound Application")
 # Sidebar for navigation
 st.sidebar.title("Chọn chức năng")
 option = st.sidebar.radio("Chọn một chức năng:",
-                         ["Hiệu ứng âm thanh", "Chuyển đổi văn bản thành giọng nói", "Nhận diện giọng nói"])
+                           ["Hiệu ứng âm thanh", "Chuyển đổi văn bản thành giọng nói", "Nhận diện giọng nói"])
 
 if option == "Hiệu ứng âm thanh":
     st.header("Hiệu ứng Âm thanh")
@@ -125,7 +125,6 @@ if option == "Hiệu ứng âm thanh":
             st.audio(processed_audio_path)
 
             # Hiển thị đồ thị sóng âm
-            st.write("### Phân tích dạng sóng")
             st.image(waveform_path, use_container_width=True)
 
 elif option == "Chuyển đổi văn bản thành giọng nói":
