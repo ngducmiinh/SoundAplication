@@ -43,7 +43,7 @@
 
 ### 1️⃣ Clone repository:
 ```bash
-git clone https://github.com/your-username/sound-application.git
+git clone https://github.com/ngducmiinh/sound-application.git
 cd sound-application
 ```
 
